@@ -1,6 +1,5 @@
 Autor: Andrej Pavuk
 Nazov: NEUVERITE PRISAHAM !!!!!!!!
-<<<<<<< HEAD
 Datum: 02.06.2020 
 ----
 Dobry den
@@ -10,8 +9,5 @@ najlepsi uvod na svete 1
 Policajtov previezli do tamojšej nemocnice so zraneniami, ktoré nie sú "život ohrozujúce".
 Napísala polícia v príspevku na Twitteri. 
 Kto presne strieľal, nebolo bezprostredne jasné.
-----
-Mily citatelia na toto sme 
-bohuzial 
-nemali cas.
+
 
